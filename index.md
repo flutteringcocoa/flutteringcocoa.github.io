@@ -1,17 +1,16 @@
 <html>
+ <head>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177394059-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177394059-1');
+</script>
+</head>
 <body>
 想进后台部
-                  <script>
-                var _mtac = {};
-                (function() {
-                    var mta = document.createElement("script");
-                    mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.4";
-                    mta.setAttribute("name", "MTAH5");
-                    mta.setAttribute("sid", "500729039");
-                    var s = document.getElementsByTagName("script")[0];
-                    s.parentNode.insertBefore(mta, s);
-                })();
-                </script>
-            
 </body>
 </html>
